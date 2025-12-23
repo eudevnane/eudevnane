@@ -3,11 +3,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B931FC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Islane+Andrade.;Desenvolvedora+Backend+em+formação.;Estudante+de+Python,+HTML,+CSS+e+JavaScript.)
 
 <p align="center" style="font-size: 1.5rem; max-width: 800px; line-height: 1.8; color: #5d0b72; font-family: 'Segoe UI', sans-serif;">
-  <strong style="font-size: 1.8rem;">- Desenvolvedora backend & Analista de Sistemas e Dados </strong><br>
-  - Apaixonada por soluções criativas e desenvolvimento de software.<br>
-  - Atualmente, estou estudando <strong>Python</strong> e <strong>Análise de Dados</strong>.<br>
-  -  Além disso, atuo como analista de sistemas especializada em <strong>GRC</strong>,<br> Automatizando fluxos e otimizando rotinas de equipes e clintes do setor GRC.<br>
-  - Busco sempre novas formas de aprender e crescer no mundo da tecnologia.
+  <strong style="font-size: 1.8rem;">- Backend Developer | Data & Systems Analysis | GRC Specialist | Diligent One Platform | Python | RPA | ACL </strong><br>
+  - Apaixonada por tecnologia e inovação, atuo como analista de sistemas, automatizando fluxos e otimizando a rotina de clientes e equipes de GRC (Governança, Riscos e Compliance).<br>
+  - Com foco em desenvolvimento Backend, análise de dados e de sistemas, aplico Python na automação de processos, tratamento de dados, consumo de APIs, além da criação de robôs e integrações.<br>
+  -  Busco me tornar uma profissional completa, conectando tecnologia, produto, negócios e pessoas.
 </p>
 
 
