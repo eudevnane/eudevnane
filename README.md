@@ -3,11 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B931FC&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Islane+Andrade.;Desenvolvedora+Backend+em+formação.;Estudante+de+Python,+HTML,+CSS+e+JavaScript.)
 
 <p align="center" style="font-size: 1.5rem; max-width: 800px; line-height: 1.8; color: #5d0b72; font-family: 'Segoe UI', sans-serif;">
-  <strong style="font-size: 1.8rem;">- Sou uma desenvolvedora backend em formação</strong><br>
+  <strong style="font-size: 1.8rem;">- Desenvolvedora backend & Analista de Sistemas e Dados </strong><br>
   - Apaixonada por soluções criativas e desenvolvimento de software.<br>
-  - Atualmente, estou estudando <strong>Python</strong>, <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.<br>
-  -  Além disso, estou criando meu ateliê online chamado <strong>Alma Equilíbrio</strong>,<br> que visa promover equilíbrio energético através de arte e da natureza.<br>
-  - Estou sempre em busca de novas formas de aprender e crescer no mundo da tecnologia.
+  - Atualmente, estou estudando <strong>Python</strong> e <strong>Análise de Dados</strong>.<br>
+  -  Além disso, atuo como analista de sistemas especializada em <strong>GRC</strong>,<br> Automatizando fluxos e otimizando rotinas de equipes e clintes do setor GRC.<br>
+  - Busco sempre novas formas de aprender e crescer no mundo da tecnologia.
 </p>
 
 
