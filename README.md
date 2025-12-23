@@ -13,10 +13,8 @@
 
 • Apaixonada por tecnologia e inovação, atuo como Analista de Sistemas com foco em automação de processos e otimização de rotinas para clientes e equipes de GRC (Governança, Riscos e Compliance).
 <br><br>
-
 • Com foco em desenvolvimento Backend, análise de dados e sistemas, aplico Python na automação de processos, tratamento e análise de dados, consumo de APIs, além da criação de robôs e integrações.
 <br><br>
-
 • Busco me tornar uma profissional completa, conectando tecnologia, produto, negócios e pessoas.
 
 </p>
