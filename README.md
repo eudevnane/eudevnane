@@ -1,11 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5d0b72&height=120&section=header&text=Transformando%20dados%20e%20processos%20em%20solu%C3%A7%C3%B5es%20inteligentes.&fontSize=26&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=5D0B72&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Islane+Andrade!;Desenvolvedora+Backend.;Analista+de+Sistemas.;Python+|+RPA+|+GRC+|+ACL"/>
 </p>
 
-<p align="center" style="font-size: 1.4rem; max-width: 900px; line-height: 1.8; color: #5d0b72; font-family: 'Segoe UI', sans-serif;">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=36&center=true&vCenter=true&width=1000&lines=Analista+de+Sistemas."/>
+</p>
 
 <strong style="font-size: 1.6rem;">
 Backend Developer | Data & Systems Analysis | GRC Specialist <br>
