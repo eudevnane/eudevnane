@@ -33,7 +33,7 @@
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-[![DILIGENT ONE PLATFORM](https://img.shields.io/badge/Diligent-One-%23C62828.svg?style=for-the-badge&logo=Diligent&logoColor=white)](https://www.diligent.com/platform/diligent-one)
+[![DILIGENT ONE PLATFORM](https://img.shields.io/badge/DiligentOne-%23C62828.svg?style=for-the-badge&logo=Diligent&logoColor=white)](https://www.diligent.com/platform/diligent-one)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-Intermedi%C3%A1rio-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![ACL](https://img.shields.io/badge/ACL-Analytics-005EB8?style=for-the-badge&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
