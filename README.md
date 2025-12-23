@@ -61,4 +61,4 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#5d0b72&height=120&section=footer"/>
 <img width="958" height="1505" alt="image" src="https://github.com/user-attachments/assets/1de0c5f5-77ef-4794-8d6a-665e3be69b82" />
-
+<img width="966" height="2311" alt="image" src="https://github.com/user-attachments/assets/43b7b80d-4981-4cbc-8c36-99bfbc99457a" />
