@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=5D0B72&size=28&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Islane+Andrade!;Desenvolvedora+Backend.;Analista+de+Sistemas.;Python+|+RPA+|+GRC+|+ACL"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=36&center=true&vCenter=true&width=1000&lines=Analista+de+Sistemas."/>
-</p>
 
 <strong style="font-size: 1.6rem;">
 Backend Developer | Data & Systems Analysis | GRC Specialist <br>
